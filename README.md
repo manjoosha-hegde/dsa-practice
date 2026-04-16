@@ -3,7 +3,7 @@
 This repository contains my daily DSA practice problems.
 
 ## Topics Covered
-- Arrays
+- Arrays 
 - Strings
 - Linked List
 - Trees
